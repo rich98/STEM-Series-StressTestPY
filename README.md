@@ -1,4 +1,4 @@
-## STEM Series Stres testing
+## STEM Series: Stress testing
 
 This script is like a fitness test for# CPU and Memory Stress Test
 
