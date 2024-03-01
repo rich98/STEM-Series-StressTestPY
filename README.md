@@ -16,4 +16,4 @@ This script is a simple stress test for your computer. It's like a fitness test 
 
 6. **Running the test and generating the report**: The last two lines of the script actually start the test and then generate the report.
 
-In summary, this script is a way to make your computer do some hard work for a set amount of time, and then write down how hard its CPU and memory were working during that time. It's a good way to see how well your computer can handle heavy tasks!
+This script is a way to make your computer do some hard work for a set amount of time, and then write down how hard its CPU and memory were working during that time. It's a good way to see how well your computer can handle heavy tasks!
