@@ -45,3 +45,4 @@ write_speed, read_speed = test_raid()
 print(f"Write speed: {write_speed}")
 print(f"Read speed: {read_speed}")
 
+
